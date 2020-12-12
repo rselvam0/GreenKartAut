@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="72.978" timestamp="2020-12-12T18:29:39.128705" hostname="Ramesh"><testcase classname="test_GreenKartE2E.TestGreenCart" name="test_GreenKartE2E[getData0]" time="72.104" /></testsuite></testsuites>
